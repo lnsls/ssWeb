@@ -1,0 +1,29 @@
+.baiduimage {
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+form {
+    margin-left: 18%;
+    margin-top: 0px;
+}
+
+.so-text {
+    width: 600px;
+    height: 45px;
+    border-color: #39F;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 24px;
+}
+
+.so-button {
+    height: 55px;
+    width: 120px;
+    background-color: #39F;
+    border-style: solid;
+    font-size: 24px;
+    color: #FFF;
+    margin-left: 10px;
+    margin-top: 50px;
+}

@@ -1,0 +1,33 @@
+.baiduimage {
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+.floatBox {
+    width: 235px;
+    height: 125px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+    text-align:center;
+    color: #333333;
+    padding-top: 15px;
+    float: left;
+    background: #eef9ff;
+}
+
+.color1{
+    color: #0000AA;
+}
+
+.clear {
+    clear: both;
+}
+
+.bottom {
+    width: 500px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 200px;
+    text-align: center;
+}

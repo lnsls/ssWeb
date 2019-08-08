@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.zhengwen {
+    font-size: 28px;
+    color: #555555;
+    padding-bottom: 20px;
+    line-height: 35px;
+}
+
+.top-a1 {
+    color: #0000AA;
+}
+
+.wText {
+    font-size: 15px;
+    text-align: center;
+    /*line-height: 20px;*/
+}
+
+.wInput {
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.img-kefu{
+    width:300px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}

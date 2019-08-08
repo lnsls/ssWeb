@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.top {
+    width: 100%;
+    height: 100px;
+    background-image: url("../images/header-bg.jpg");
+    background-size: 100%;
+}
+
+.top-right {
+    height: 23px;
+    width: 250px;
+    float: right;
+    text-align: center;;
+    margin-right: 10px;
+    margin-top: 37px;
+    color: #FFFFFF;
+}
+
+.top-left {
+    height: 80px;
+    width: 200px;
+    float: left;
+}
+
+.con {
+    width: 100%;
+    height: 100%;
+}
+
+.left {
+    height: 100%;
+    width: 13%;
+    padding: 10px;
+    background: #EEEEEE;
+    float: left;
+}
+
+.right {
+    height: 100%;
+    width: 87%;
+    overflow: auto;
+    float: right;
+}
+
+/*<!--  布局样式  -->*/
+
+
+
+
+

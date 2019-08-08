@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top-a2 {
+    color: #0000AA;
+}
+
+.water-box {
+    background: #eeeeee;
+    width: 205px;
+    margin: 10px;
+}
+
+.wText {
+    font-size: 15px;
+    padding: 3px 0px 3px 0px;
+}
+
+.wText-big {
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+
+.wText-h2 {
+    font-size: 30px;
+    padding: 10px 0px 10px 0px;
+}
+
+.wImg {
+    padding: 8px;
+}

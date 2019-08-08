@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mianboy {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 300px;
+    background: url(../images/header-bg.jpg) top center no-repeat;
+}
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.top-links {
+    width: 760px;
+    margin: 0 auto;
+    padding-top: 110px;
+}
+
+.top-links li {
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 0 20px;
+}
+
+.top-links li a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.top-a1, .top-a2, .top-a3, .top-a40, .top-a4, .top-a5, .top-a6, .top-a7 {
+    color: #333333;
+}
+
+.footer {
+    background-color: #2DA2E0;
+}
+
+.footer-links {
+    font-size: 12px;
+    text-align: center;
+    width: 900px;
+    margin: auto;
+    color: #FFFFFF;
+    padding-bottom: 22px;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 22px 0px 0px 365px;
+}
+
+.footer-links li {
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 9px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.footer-links li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/*头部注册*/
+
+.login {
+    width: 350px;
+    font-size: 16px;
+    color: #ffffff;
+    margin-top: 93px;
+}
+
+.wText-a {
+    color: #ffffff;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top-a40{
+	color: #0000AA;
+}
+
+table.dataintable {
+	border: 1px solid #333333;
+	border-collapse: collapse;
+	font-family: Arial,Helvetica,sans-serif;
+	margin-top: 10px;
+	width: 100%;
+	font-size: 13px;
+}
+table.dataintable th {
+	border: 1px solid #333333;
+	padding: 5px 15px 5px 5px;
+	text-align: center;
+	vertical-align: baseline;
+}
+table.dataintable td {
+	border: 1px solid #333333;
+	padding: 5px 15px 5px 5px;
+	vertical-align: text-top;
+}
+
+.wText {
+	font-size: 15px;
+
+	text-align: center;
+}
